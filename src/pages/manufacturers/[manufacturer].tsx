@@ -50,7 +50,7 @@ export default function Manufacturer({ manufacturer, variables }: any) {
           isLoadingMore={isLoadingMore}
           hasMore={hasMore}
           error={error}
-          column="five"
+          column="four"
         />
       </div>
 

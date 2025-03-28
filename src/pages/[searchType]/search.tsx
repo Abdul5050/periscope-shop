@@ -68,7 +68,7 @@ export default function SearchPage() {
         isLoadingMore={isLoadingMore}
         hasMore={hasMore}
         error={error}
-        column="five"
+        column="four"
       />
     </div>
   );
