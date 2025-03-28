@@ -7,7 +7,7 @@
     "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "",
     "NEXT_PUBLIC_PAYPAL_CLIENT_TOKEN": "",
     "NEXT_PUBLIC_RAZORPAY_KEY": "",
-    "NEXTAUTH_URL": "",
+    "NEXTAUTH_URL": "https://periscope-shop.vercel.app",
     "SECRET": "",
     "GOOGLE_CLIENT_ID": "",
     "GOOGLE_CLIENT_SECRET": "",
@@ -18,7 +18,7 @@
     "NEXT_PUBLIC_AVAILABLE_LANGUAGES": "en",
     "NEXT_PUBLIC_GOOGLE_MAP_API_KEY": "",
     "NEXT_PUBLIC_PAYSTACK_KEY": "",
-    "NEXT_PUBLIC_VERSION": "11.0.0"
+    "NEXT_PUBLIC_VERSION": "1.0.0"
   },
   "build": {
     "env": {
@@ -29,7 +29,7 @@
       "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "",
       "NEXT_PUBLIC_PAYPAL_CLIENT_TOKEN": "",
       "NEXT_PUBLIC_RAZORPAY_KEY": "",
-      "NEXTAUTH_URL": "",
+      "NEXTAUTH_URL": "https://periscope-shop.vercel.app",
       "SECRET": "",
       "GOOGLE_CLIENT_ID": "",
       "GOOGLE_CLIENT_SECRET": "",
@@ -40,7 +40,7 @@
       "NEXT_PUBLIC_AVAILABLE_LANGUAGES": "en",
       "NEXT_PUBLIC_GOOGLE_MAP_API_KEY": "",
       "NEXT_PUBLIC_PAYSTACK_KEY": "",
-      "NEXT_PUBLIC_VERSION": "11.0.0"
+      "NEXT_PUBLIC_VERSION": "1.0.0"
     }
   }
 }
